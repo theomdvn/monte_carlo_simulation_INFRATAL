@@ -1,0 +1,51 @@
+TAL Statistical Summary
+-----------------------
+Mean Return: 0.0005246205927191913
+Standard Deviation: 0.04246852596501774
+5.0% Value at Risk (VaR): -0.07028377179547135
+5.0% Expected Shortfall (ES): -0.08690777600088598
+
+TAL Component Statistical Summary
+---------------------------------
+ USDCHF:
+Mean Return: -0.0001
+Standard Deviation: 0.04275
+5.0% Value at Risk (VaR): -0.07035
+5.0% Expected Shortfall (ES): -0.08848
+
+ USDEUR:
+Mean Return: -7e-05
+Standard Deviation: 0.04635
+5.0% Value at Risk (VaR): -0.07551
+5.0% Expected Shortfall (ES): -0.09546
+
+ USDGBP:
+Mean Return: -0.00014
+Standard Deviation: 0.07553
+5.0% Value at Risk (VaR): -0.125
+5.0% Expected Shortfall (ES): -0.15692
+
+ USDJPY:
+Mean Return: -0.00066
+Standard Deviation: 0.09795
+5.0% Value at Risk (VaR): -0.16134
+5.0% Expected Shortfall (ES): -0.20274
+
+ USDCNY:
+Mean Return: 0.00012
+Standard Deviation: 0.07217
+5.0% Value at Risk (VaR): -0.11923
+5.0% Expected Shortfall (ES): -0.1492
+
+ USDSGD:
+Mean Return: 0.00058
+Standard Deviation: 0.08266
+5.0% Value at Risk (VaR): -0.13565
+5.0% Expected Shortfall (ES): -0.17029
+
+ USDGOLD:
+Mean Return: 0.001
+Standard Deviation: 0.15228
+5.0% Value at Risk (VaR): -0.24906
+5.0% Expected Shortfall (ES): -0.31423
+
